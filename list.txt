@@ -1,4 +1,3 @@
-cdn.jsdelivr.net
 bit.ly
 tinyurl.com
 clients4.google.com
@@ -43,8 +42,6 @@ fbcdn-creative-a.akamaihd.net
 scontent-lhr3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
-graph.facebook.com
-b-graph.facebook.com
 connect.facebook.com
 cdn.fbsbx.com
 api.facebook.com
