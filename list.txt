@@ -33,6 +33,8 @@ external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
+www.tickcounter.com
+fonts.gstatic.com
 external-lhr5-1.xx.fbcdn.net
 external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
@@ -60,3 +62,4 @@ placeholdit.imgix.net
 g.live.com
 reminders-pa.googleapis.com
 firestore.googleapis.com
+email.mvm.hu
